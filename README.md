@@ -61,14 +61,14 @@ Displays the performance of the classification model.
 ## Screenshots
 
 ### Spam vs Ham Chart
-(screenshots/spam_ham_count.png)
+(spam_ham_count.png)
 
 ### Confusion Matrix
 
 (screenshots/confusion_matrix.png)
 ### Dashboard
 
-(screenshots/dashboard.png)
+(dashboard.png)
 
 ## How to Run
 
@@ -81,25 +81,6 @@ Open:
 
 ```text
 http://127.0.0.1:5000
-```
-
-## Project Structure
-
-
-FUTURE_DS_03/
-│
-├── data/
-│   └── spam.csv
-│
-├── screenshots/
-│   ├── spam_ham_count.png
-│   ├── confusion_matrix.png
-│   └── dashboard.png
-│
-├── spam_detection.ipynb
-├── dashboard.html
-├── app.py
-└── README.md
 ```
 
 ## Author
