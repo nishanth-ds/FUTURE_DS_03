@@ -61,14 +61,15 @@ Displays the performance of the classification model.
 ## Screenshots
 
 ### Spam vs Ham Chart
-(spam_ham_count.png)
+![Spam vs Ham](screenshots/spam_ham_count.png)
 
 ### Confusion Matrix
 
-(screenshots/confusion_matrix.png)
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
 ### Dashboard
 
-(dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ## How to Run
 
